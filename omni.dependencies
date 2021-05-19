@@ -1,8 +1,8 @@
 [
 	{
 		"remote":"github",
-		"repository":"prashantpaddune/android_kernel_samsung_a7y18lte",
+		"repository":"devkingsteam/android_kernel_samsung_universal7885",
 		"target_path":"kernel/samsung/universal7885",
-		"revision":"master"
+		"revision":"android-8.1"
 	}
 ]
